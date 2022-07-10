@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://emilljungberg.github.io/</loc>
+    <loc>https://emilljungberg.com/</loc>
     <lastmod>2022-07-09T15:40:43+02:00</lastmod>
   </url><url>
-    <loc>https://emilljungberg.github.io/posts/my-first-post/</loc>
+    <loc>https://emilljungberg.com/posts/my-first-post/</loc>
     <lastmod>2022-07-09T15:40:43+02:00</lastmod>
   </url><url>
-    <loc>https://emilljungberg.github.io/posts/</loc>
+    <loc>https://emilljungberg.com/posts/</loc>
     <lastmod>2022-07-09T15:40:43+02:00</lastmod>
   </url><url>
-    <loc>https://emilljungberg.github.io/archives/</loc>
+    <loc>https://emilljungberg.com/archives/</loc>
   </url><url>
-    <loc>https://emilljungberg.github.io/categories/</loc>
+    <loc>https://emilljungberg.com/categories/</loc>
   </url><url>
-    <loc>https://emilljungberg.github.io/mri/</loc>
+    <loc>https://emilljungberg.com/mri/</loc>
   </url><url>
-    <loc>https://emilljungberg.github.io/tags/</loc>
+    <loc>https://emilljungberg.com/tags/</loc>
   </url>
 </urlset>

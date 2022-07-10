@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://emilljungberg.github.io/sitemap.xml
+Sitemap: https://emilljungberg.com/sitemap.xml

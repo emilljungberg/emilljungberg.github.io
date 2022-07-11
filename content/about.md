@@ -2,21 +2,22 @@
 title: "About"
 url: "/about/"
 summary: about
+showReadingtime: false
 katex: true
 ---
 
 
 ### Education
-**PhD in Neuroimaging Physics** | 02/2017  - 06/2020
-- King's College London, Institute of Psychiatry, Psychology, & Neuroscience
-- Thesis: [MRI with zero echo time: quick, quiet, quantitative](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.810881)
+**PhD in Neuroimaging Physics**, King's College London (2020)  
+Department of Neuroimaging    
+Thesis: [_MRI with zero echo time: quick, quiet, quantitative_](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.810881)
         
 
-**MASc in Engineering Physics (Medical physics stream)** | 09/2014 - 05/2016
-- University of British Columbia, Department of Physics and Astronomy
-- THesis: [Characterization of myelin water imaging using a gradient and spin echo sequence in human brain and spinal cord](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0228626)
+**MASc in Engineering Physics**, University of British Columbia (2017)  
+Department of Physics and Astronomy (Medical physics stream)  
+Thesis: [_Characterization of myelin water imaging using a gradient and spin echo sequence in human brain and spinal cord_](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0228626)
 
 
-**BSc in Technology (Engineering physics program)** | 09/2010 - 12/2013
-- Lund University, Faculty of Engineering
-- Thesis: [Optical sensors for mechanomyography and tissue chromophores](https://lup.lub.lu.se/student-papers/search/publication/4238291)
+**BSc in Technology**, Lund University (2014)  
+Faculty of Engineering, (Engineering physics program / Teknisk Fysik)  
+Thesis: [Optical sensors for mechanomyography and tissue chromophores](https://lup.lub.lu.se/student-papers/search/publication/4238291)

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Emil Ljungberg</title>
-    <link>http://emilljungberg.com/</link>
+    <link>https://emilljungberg.com/</link>
     <description>Recent content on Emil Ljungberg</description>
     <image>
-      <url>http://emilljungberg.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://emilljungberg.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://emilljungberg.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://emilljungberg.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Jul 2022 15:40:43 +0200</lastBuildDate><atom:link href="http://emilljungberg.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 15:40:43 +0200</lastBuildDate><atom:link href="https://emilljungberg.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZTE at ECR 2022</title>
-      <link>http://emilljungberg.com/ecr2022/</link>
+      <link>https://emilljungberg.com/ecr2022/</link>
       <pubDate>Sat, 09 Jul 2022 15:40:43 +0200</pubDate>
       
-      <guid>http://emilljungberg.com/ecr2022/</guid>
+      <guid>https://emilljungberg.com/ecr2022/</guid>
       <description>I&amp;rsquo;ll be giving an educational talk about Zero Echo Time (ZTE) MRI at the European Congress of Radiology (ECR) in Vienna on July 15th in the session Advanced MRI techniques in clinical neuroradiology (RC 1211). This post provides supplementary information for this presentation, including useful links to published papers.
 Review papers The best way to get on top of the literature on ZTE is to read one of the following review papers:</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://emilljungberg.com/about/</link>
+      <link>https://emilljungberg.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://emilljungberg.com/about/</guid>
+      <guid>https://emilljungberg.com/about/</guid>
       <description>about</description>
     </item>
     
     
     <item>
       <title>MRI</title>
-      <link>http://emilljungberg.com/mri/</link>
+      <link>https://emilljungberg.com/mri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://emilljungberg.com/mri/</guid>
+      <guid>https://emilljungberg.com/mri/</guid>
       <description>mri</description>
     </item>
     
     <item>
       <title>My research</title>
-      <link>http://emilljungberg.com/research/</link>
+      <link>https://emilljungberg.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://emilljungberg.com/research/</guid>
+      <guid>https://emilljungberg.com/research/</guid>
       <description>research</description>
     </item>
     

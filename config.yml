@@ -59,7 +59,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: emil ljungberg
     subtitle: "I see myself as a scientist with an engineer’s mindset. I enjoy building solutions for complex problems, especially when it involves creativity and a large chunk of coding. For the last 10 years I've worked with medical imaging research where I have built new techniques for brain imaging using Magnetic Resonance Imaging. 
 
@@ -77,8 +77,11 @@ params:
 
   # home-info mode
   homeInfoParams:
+    enabled: true
     Title: "Emil Ljungberg"
-    Content: Post hoc, ergo propter hoc
+    Content: "I see myself as a scientist with an engineer’s mindset. I enjoy building solutions for complex problems, especially when it involves creativity and a large chunk of coding. For the last 10 years I've worked with medical imaging research where I have built new techniques for brain imaging using Magnetic Resonance Imaging. 
+
+    My strength as a researcher and project leader is seeing the big picture and breaking down problems into smaller tasks. This applies in many areas including software development, international collaborations, or regulatory compliance."
 
   socialIcons:
     - name: github

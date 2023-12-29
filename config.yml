@@ -78,8 +78,6 @@ params:
     Content: Post hoc, ergo propter hoc
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/e_youngberg"
     - name: github
       url: "https://github.com/emilljungberg"
     - name: linkedin
@@ -126,9 +124,9 @@ menu:
       name: archive
       url: /archives/
       weight: 20
-    - identifier: research
-      name: research
-      url: /research/
+    - identifier: projects
+      name: projectes
+      url: /projects/
       weight: 30
     - identifier: about
       name: about
